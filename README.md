@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋</h1>
+<h1 align="center">console.log('hello, world!');</h1>
 
 <p align="center">
   Desenvolvedor Fullstack com especialidade em Typescript e React. 🚀
