@@ -1,7 +1,7 @@
 <h1 align="center">console.log('hello, GitHub!');</h1>
 
 <p align="center">
-  Desenvolvedor Fullstack com especialidade em Typescript e React. 🚀
+  Desenvolvedor Fullstack com especialidade em Typescript, React e NestJS. 🚀
 </p>
 
 ---
