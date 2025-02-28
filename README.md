@@ -22,8 +22,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduuwl&show_icons=true&theme=radical&count_private=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduuwl&layout=compact&theme=radical" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eduuwl&show_icons=true&theme=radical&count_private=true&v=1" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduuwl&layout=compact&theme=radical&v=1" width="47%"/>
 </p>
 
 
