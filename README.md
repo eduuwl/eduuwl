@@ -58,4 +58,14 @@
 
 ---
 
-⭐️ **Inspirado em [@eduuwl](https://github.com/eduuwl)**
+<img src="https://raw.githubusercontent.com/eduuwl/eduuwl/output/snake.svg" alt="Snake animation" />
+
+###
+---
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
