@@ -1,12 +1,12 @@
 <h1 align="center">console.log('hello, GitHub!');</h1>
 
 <p align="center">
-  Desenvolvedor Fullstack com especialidade em Typescript, React e NestJS. 🚀
+  Fullstack Developer with expertise in Typescript, React, and NestJS.
 </p>
 
 ---
 
-## 🚀 Tecnologias e Ferramentas:
+## 🚀 Technologies and Tools:
 <p align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
@@ -36,14 +36,14 @@
 
 ---
 
-## 📌 Sobre mim:
-- 💼 Atualmente, trabalho como **Desenvolvedor Fullstack**.
-- 🌱 Sempre aprendendo novas tecnologias para melhorar minhas soluções.
-- 🎯 Buscando aprimorar **arquiteturas escaláveis** e **desenvolvimento otimizado**.
+## 📌 About me:
+- 💼 Currently, I work as a **Fullstack Developer**.
+- 🌱 Always learning new technologies to improve my solutions.
+- 🎯 Seeking to improve scalable architectures and optimized development.
 
 ---
 
-## 📫 Conecte-se comigo:
+## 📫 Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-costa-e-silva-8240172a1/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
